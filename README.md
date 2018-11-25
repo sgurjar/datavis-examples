@@ -1,0 +1,1 @@
+Example of plots with pandas and matplotlib.
